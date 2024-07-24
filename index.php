@@ -8,7 +8,7 @@
     <title>Beauty Website HTML</title>
     <!--==CSS========================-->
     <link rel="stylesheet" href="style.css"/>
-    <!--==fav-icon===================-->
+    <!--==fav-icon===================--->
     <link rel="shortcut icon" href="images/fav-icon.png"/>
     <!--==import-poppins-font========-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
