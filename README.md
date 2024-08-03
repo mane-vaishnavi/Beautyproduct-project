@@ -1,3 +1,3 @@
 # beautyproduct-project
 
-my first project will be uplaod the github
+my first project will be uplaod the github.
